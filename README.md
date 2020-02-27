@@ -6,7 +6,7 @@
 
 I am currently a computer vision engineer at [Huya Limited](http://ir.huya.com), Guangzhou, led by [Dr. Xintong Han](http://users.umiacs.umd.edu/~xintong/).
 ### Recent News
-+ Nothing excited yet
++ Feb. 2020: Create my personal website on github!
 
 ### Publication
 + Chan, P. P., Lin Z, Hu X., Tsang, E. C., & Yeung, D. S. . Sensitivity based robust learning for stacked autoencoder against evasion attack[J]. Neurocomputing, 2017, 267: 572-580.
@@ -21,7 +21,7 @@ Advisor: Prof. Patrick P.K. Chan
 
 #### B.S in Computer Science - Innovation Class `2012.9 - 2016.7`
 South China University of Technology, Guangzhou, China <br>
-
+Advisor: Prof. Patrick P.K. Chan
 
 ### Experience
 #### Computer Vision Engineer `2018.7 - Present`
