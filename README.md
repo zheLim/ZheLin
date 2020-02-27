@@ -4,7 +4,7 @@
 **Huya Limited**<br>
 **Email: linzheshabia at gmail.com**<br>
 
-I am currently a computer vision engineer at [Huya Limited](http://ir.huya.com), Guangzhou, led by [Dr. Xintong Han](http://users.umiacs.umd.edu/~xintong/)
+I am currently a computer vision engineer at [Huya Limited](http://ir.huya.com), Guangzhou, led by [Dr. Xintong Han](http://users.umiacs.umd.edu/~xintong/).
 ### Recent News
 + Nothing excited yet
 
