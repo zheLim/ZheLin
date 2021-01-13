@@ -11,7 +11,7 @@ I am currently a computer vision engineer at [Huya Limited](http://ir.huya.com),
 + Feb. 2020: Create my personal website on github!
 ### Demo (Click image to play!)
 
-#### Talking Head
+#### Live Photo
 + Portrait 
 
 [<img src="https://raw.githubusercontent.com/zheLim/zhelin/master/image/demo/sing.jpg" width="50%">](https://res-video.licolico.cn/1048577/c67771952181d54815ec1cb92602e26c/9271749/5e2072d56bf451b9285662b12d79466c.mp4)
