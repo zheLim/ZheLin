@@ -9,11 +9,10 @@ I am currently a computer vision engineer at [Huya Limited](http://ir.huya.com),
 + Feb. 2020: Create my personal website on github!
 
 ### Publication
-+ Chan, P. P., Lin Z, Hu X., Tsang, E. C., & Yeung, D. S. . Sensitivity based robust learning for stacked autoencoder against evasion attack[J]. Neurocomputing, 2017, 267: 572-580.
-+ Luo F, Chan P P K, Lin Z, et al. Improving robustness of stacked auto-encoder against evasion attack based on weight evenness[C]//Wavelet Analysis and Pattern Recognition (ICWAPR), 2017 International Conference on. IEEE
-+ Zheng J, He Z, Lin Z. Hybrid adversarial sample crafting for black-box evasion attack[C]//Wavelet Analysis and Pattern Recognition (ICWAPR), 2017 International Conference on. IEEE, 2017: 236-242.
-+ Li Q, Lin Z, Fei Z. Similarity coefficient of collaborative filtering based on contribution of neighbors[C]//Machine Learning and Cybernetics (ICMLC), 2016 International Conference on. IEEE, 2016, 1: 226-232.
-
++ Chan, Patrick PK, et al. "Sensitivity based robust learning for stacked autoencoder against evasion attack." Neurocomputing 267 (2017): 572-580.
++ Luo, Fengzhi, et al. "Improving robustness of stacked auto-encoder against evasion attack based on weight evenness." 2017 International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR). IEEE, 2017.
++ Zheng, Juan, Zhimin He, and Zhe Lin. "Hybrid adversarial sample crafting for black-box evasion attack." 2017 International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR). IEEE, 2017.
++ Li, Qiaoqiao, Zhe Lin, and Zhang Fei. "Similarity coefficient of collaborative filtering based on contribution of neighbors." 2016 International conference on machine learning and cybernetics (ICMLC). Vol. 1. IEEE, 2016.
 ### Education
 #### M.Phil. in Computer Science `2016.9 - 2018.6`
 South China University of Technology, Guangzhou, China <br>
