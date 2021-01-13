@@ -5,7 +5,7 @@
 **Email: linzheshabia at gmail.com**<br>
 
 I am currently a computer vision engineer at [Huya Limited](http://ir.huya.com), Guangzhou, led by [Dr. Xintong Han](http://users.umiacs.umd.edu/~xintong/).
-### 
+
 ### Recent News
 + Jan. 2021: Show some of my work!
 + Feb. 2020: Create my personal website on github!
@@ -28,7 +28,7 @@ South China University of Technology, Guangzhou, China <br>
 Advisor: Prof. Patrick P.K. Chan
 
 
-### Demo (Click image to play!)
+### Demo (Click to play!)
 
 #### Live Photo
 + Portrait 
