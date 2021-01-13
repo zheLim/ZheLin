@@ -34,10 +34,10 @@ Advisor: Prof. Patrick P.K. Chan
 + Portrait 
 
 [<img src="https://raw.githubusercontent.com/zheLim/zhelin/master/image/demo/sing.jpg" width="50%">](https://res-video.licolico.cn/1048577/c67771952181d54815ec1cb92602e26c/9271749/5e2072d56bf451b9285662b12d79466c.mp4)
-+ cats
++ Cats
 
 [<img src="https://raw.githubusercontent.com/zheLim/zhelin/master/image/demo/talkinghead_cat.jpg" width="50%">](http://www.licolico.cn/#/share?feedNo=177471865)
-+ animation
++ Animation
 
 [<img src="https://raw.githubusercontent.com/zheLim/zhelin/master/image/demo/talkinghead_animation.jpg" width="50%">](http://www.licolico.cn/#/materialshare?feedNo=177494324)
 
