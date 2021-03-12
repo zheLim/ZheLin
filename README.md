@@ -49,7 +49,6 @@ Advisor: Prof. Patrick P.K. Chan
 [<img src="https://raw.githubusercontent.com/zheLim/zhelin/master/image/demo/duanzi.png" width="50%">](https://drive.google.com/file/d/1K4aMKY_Q_SOdLC_lAIC1-eQI6amW9aln/view?usp=sharing)
 
 ### Publication
-### Publication
 + Sensitivity based robust learning for stacked autoencoder against evasion attack, Neurocomputing, 2017
 + Improving robustness of stacked auto-encoder against evasion attack based on weight evenness, ICWAPR, 2017
 + Hybrid adversarial sample crafting for black-box evasion attack, ICWAPR, 2017
