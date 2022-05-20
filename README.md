@@ -30,25 +30,13 @@ Advisor: Prof. Patrick P.K. Chan
 
 ### Demo (Click to play!)
 
-#### Live Photo
-+ Portrait 
-
-[<img src="https://raw.githubusercontent.com/zheLim/zhelin/master/image/demo/sing.jpg" width="50%">](https://res-video.licolico.cn/1048577/c67771952181d54815ec1cb92602e26c/9271749/5e2072d56bf451b9285662b12d79466c.mp4)
-+ Cats
-
-[<img src="https://raw.githubusercontent.com/zheLim/zhelin/master/image/demo/talkinghead_cat.jpg" width="50%">](http://www.licolico.cn/#/share?feedNo=177471865)
-+ Animation
-
-[<img src="https://raw.githubusercontent.com/zheLim/zhelin/master/image/demo/talkinghead_animation.jpg" width="50%">](http://www.licolico.cn/#/materialshare?feedNo=177494324)
-
-
 #### Head Swapping
-[<img src="https://raw.githubusercontent.com/zheLim/zhelin/master/image/demo/headswap.jpg" width="50%">](https://res-video.licolico.cn/1048577/c67771952181d54815ec1cb92602e26c/9271581/42421406dee401c1bda83d5e1356f78d.mp4)
+[<img src="https://raw.githubusercontent.com/zheLim/zhelin/master/image/demo/headswap.jpg" width="50%">](https://raw.githubusercontent.com/zheLim/zhelin/master/video/headswap.mp4)
 
 
 ### Publication
-+ Chan, Patrick PK, et al. "Sensitivity based robust learning for stacked autoencoder against evasion attack." Neurocomputing 267 (2017): 572-580.
-+ Luo, Fengzhi, et al. "Improving robustness of stacked auto-encoder against evasion attack based on weight evenness." 2017 International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR). IEEE, 2017.
-+ Zheng, Juan, Zhimin He, and Zhe Lin. "Hybrid adversarial sample crafting for black-box evasion attack." 2017 International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR). IEEE, 2017.
-+ Li, Qiaoqiao, Zhe Lin, and Zhang Fei. "Similarity coefficient of collaborative filtering based on contribution of neighbors." 2016 International conference on machine learning and cybernetics (ICMLC). Vol. 1. IEEE, 2016.
-
++ Chan, P. P., Wang, X., **Lin, Z.**, & Yeung, D. S. (2022). Progressive editing with stacked Generative Adversarial Network for multiple facial attribute editing. Computer Vision and Image Understanding, 217, 103347.
++ Chan, P. P., **Lin, Z.**, Hu, X., Tsang, E. C., & Yeung, D. S. (2017). Sensitivity based robust learning for stacked autoencoder against evasion attack. Neurocomputing, 267, 572-580.
++ Luo, F., Chan, P. P., **Lin, Z.**, & He, Z. (2017, July). Improving robustness of stacked auto-encoder against evasion attack based on weight evenness. In 2017 International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR) (pp. 230-235). IEEE.
++ Zheng, J., He, Z., & **Lin, Z.** (2017, July). Hybrid adversarial sample crafting for black-box evasion attack. In 2017 International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR) (pp. 236-242). IEEE.
++ Li, Q., **Lin, Z.**, & Fei, Z. (2016, July). Similarity coefficient of collaborative filtering based on contribution of neighbors. In 2016 International conference on machine learning and cybernetics (ICMLC) (Vol. 1, pp. 226-232). IEEE.
