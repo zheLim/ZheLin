@@ -7,8 +7,8 @@
 I am currently a computer vision engineer at [Huya Limited](http://ir.huya.com), Guangzhou, led by [Dr. Xintong Han](https://xthan.github.io/).
 
 ### Recent News
-+ Jan. 2021: Show some of my work!
-+ Feb. 2020: Create my personal website on github!
++ Jan. 2023: Paper accepted by ICRL.
+
 
 ### Experience
 #### Computer Vision Engineer `2018.7 - Present`
@@ -35,6 +35,7 @@ Advisor: Prof. Patrick P.K. Chan
 
 
 ### Publication
++ Hongyu Liu, Han, Jin, Qian, Wei, **Zhe Lin**, Wang, Dong, Song, Xu, Chen (2023) Human MotionFormer: Transferring Human Motions with Vision Transformers.
 + Chan, P. P., Wang, X., **Lin, Z.**, & Yeung, D. S. (2022). Progressive editing with stacked Generative Adversarial Network for multiple facial attribute editing. Computer Vision and Image Understanding, 217, 103347.
 + Chan, P. P., **Lin, Z.**, Hu, X., Tsang, E. C., & Yeung, D. S. (2017). Sensitivity based robust learning for stacked autoencoder against evasion attack. Neurocomputing, 267, 572-580.
 + Luo, F., Chan, P. P., **Lin, Z.**, & He, Z. (2017, July). Improving robustness of stacked auto-encoder against evasion attack based on weight evenness. In 2017 International Conference on Wavelet Analysis and Pattern Recognition (ICWAPR) (pp. 230-235). IEEE.
