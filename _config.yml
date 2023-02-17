@@ -21,7 +21,7 @@
 title: Zhe Lin's Personal Page
 email: linzheshabia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Me beyond CV
+  This page shows some discovery of my daily job. Click About to view my curriculum vitae(CV).
 domain: zhelim.github.io
 # baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://zhelim.github.io/ZheLin" # the base hostname & protocol for your site, e.g. http://example.com
